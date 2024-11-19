@@ -1,2 +1,2 @@
 # exercicios-projetos-avulsos
- Esse protifólio contem alguns exercicios e projetos para estudo e pratica 
+ Esse protifólio contem alguns exercícios e projetos para estudo e prática...
